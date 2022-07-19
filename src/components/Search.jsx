@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, {  useEffect, useState } from "react";
 import { Links } from "./Links";
 import { useDebounce } from "use-debounce";
 import { useResultContext } from "../contexts/ResultContextProvider";
@@ -7,9 +7,9 @@ import { useResultContext } from "../contexts/ResultContextProvider";
 // similar to setTimeOut
 
 export const Search = () => {
-  const [text, setText] = useState("Elon Musk");
+  const [text, setText] = useState("");
   const { setSearchTerm } = useResultContext();
-  const [debouncedValue] = useDebounce(text, 500);
+  const [debouncedValue] = useDebounce(text, 3000);
 
   useEffect(() => {
     if (debouncedValue) setSearchTerm(debouncedValue);
@@ -21,7 +21,7 @@ export const Search = () => {
         value={text}
         type="text"
         className="sm:w-96 w-80 h-10 dark:bg-gray-200 border rounded-full shadow-sm outline-none p-6 text-black hover:shadow-lg"
-        placeholder="Search Toggle or type URL"
+        placeholder="Search or type a URL"
         onChange={(e) => setText(e.target.value)}
       />
       {text && (
