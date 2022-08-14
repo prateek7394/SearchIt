@@ -7,6 +7,7 @@
 ➡️ It is supported with unique features like DARK mode, Modern UI and fully responsive on all devices.
 
 ## Tech Stacks used:
+![Screenshot (367)](https://user-images.githubusercontent.com/86012156/184549897-cc294dff-b21c-4f1e-a08b-1d9580a8fe53.png)
 
 >  React hooks
 
@@ -23,14 +24,9 @@
 >  Google search API using Rapid API to fetch data
 
 ## Project Snapshots:
-![Screenshot (364)](https://user-images.githubusercontent.com/86012156/179839674-af79ad95-476d-421f-9d72-87618da23424.png)
-![Screenshot (366)](https://user-images.githubusercontent.com/86012156/179839691-ce2060fc-5353-4b05-bc6a-a1749c04d2ba.png)
-![Screenshot (367)](https://user-images.githubusercontent.com/86012156/179839706-820b3c3d-0d2e-4762-8a57-90d624a3516b.png)
-![Screenshot (360)](https://user-images.githubusercontent.com/86012156/179839712-4c5523f6-caf2-4d1f-af87-811dbc2d34aa.png)
-![Screenshot (361)](https://user-images.githubusercontent.com/86012156/179839718-22610b59-af3d-4de6-b62f-da92a0ade0b8.png)
-![Screenshot (362)](https://user-images.githubusercontent.com/86012156/179839724-06096d9f-2d18-48bd-9848-a1b2ec46c9b2.png)
-![Screenshot (363)](https://user-images.githubusercontent.com/86012156/179839741-09357d21-e076-43f1-921c-4180264d6deb.png)
-
-
-
-
+![Screenshot (360)](https://user-images.githubusercontent.com/86012156/184547655-f35c2303-0535-4ee7-8181-4fea0d722a7c.png)
+![Screenshot (361)](https://user-images.githubusercontent.com/86012156/184547660-01a6f4fb-c9a4-46db-9836-d394eec74f16.png)
+![Screenshot (363)](https://user-images.githubusercontent.com/86012156/184547666-ccfd3a51-18a8-418d-8545-1ab4faf6727d.png)
+![Screenshot (364)](https://user-images.githubusercontent.com/86012156/184549442-0c322fb8-6b11-4ddb-8344-7690a2fda210.png)
+![Screenshot (367)](https://user-images.githubusercontent.com/86012156/184549922-0722632b-04bf-4d34-8bce-9fe15a7871b4.png)
+![Screenshot (366)](https://user-images.githubusercontent.com/86012156/184549925-6365dbe4-304c-4107-82cb-507d0906934d.png)
