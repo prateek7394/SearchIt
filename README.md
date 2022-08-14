@@ -7,7 +7,6 @@
 ➡️ It is supported with unique features like DARK mode, Modern UI and fully responsive on all devices.
 
 ## Tech Stacks used:
-![Screenshot (367)](https://user-images.githubusercontent.com/86012156/184549897-cc294dff-b21c-4f1e-a08b-1d9580a8fe53.png)
 
 >  React hooks
 
